@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Edit Profile</title>
+</head>
+
+<body>
+    <form method="POST">
+        <!-- Account Form -->
+        <fieldset>
+            <legend>
+                Account
+            </legend>
+
+            <h4>Profile Picture</h4> 
+            <input type="file" name="Upload">
+            <h4>User Name</h4>
+            <input type="text" required  minlength="4" maxlength="8" name="username">
+            <h4>Password</h4>
+            <input type="password" required  minlength="6" name="password">
+        </fieldset>
+        <br><br>
+        
+        <!-- Contacts Form -->
+        <fieldset>
+            <legend>
+                Contacts
+            </legend>
+
+            <label>Facebook</label>
+            <input type="url" name="facebook">
+            <br><br>
+            <label>email</label>
+            <input type="email" required name="email">
+            <br><br>
+            <label>Mobile Phone</label>
+            <input type="number" minlength="11" maxlength="11" required name="phone">
+        </fieldset>
+        <br>
+        <input type="submit">
+        <input type="reset">
+    </form>
+</body>
+</html>
