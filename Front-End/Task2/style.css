@@ -1,0 +1,78 @@
+.YN-card1-holder {
+    width: 339px;
+    height: 257px;
+    margin: 200px;
+}
+
+.cYN-gra-color {
+    background: linear-gradient(to right, #EFF8FE, #F4F4FF);
+}
+
+.cYN-shadow {
+    box-shadow: 0px 16px 40px 0px rgba(112, 144, 176, .2);
+}
+.cYN-shadow2 {
+    box-shadow: 0px 16px 10px 0px rgba(112, 144, 176, .2);
+}
+
+.uYN-r-border-10 {
+    border-radius: 10%;
+}
+
+.uYN-r-border-5 {
+    border-radius: 5%;
+}
+
+.img1YN {
+    background-image: url("https://prsuit.com/wp-content/uploads/2016/10/womaninhat.jpg");
+    width: 160px;
+    height: 160px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    position: relative;
+    bottom: 80px;
+    left: 80px;
+    border-radius: 50%;
+    border: 3px solid #4BBEF7;
+}
+
+.YN-card1-tagsHolder {
+    padding: 8px;
+    position: relative;
+    bottom: 75px;
+}
+
+.YN-tags {
+    display: inline-block;
+    padding: 8px;
+}
+
+.fYN-size1 {
+    font-size: 10px;
+}
+
+.YN-hidden-center {
+    width: 108px;
+    margin: auto;
+}
+
+.YN-user-info {
+    margin: 8px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.YN-tag-message {
+    background: linear-gradient(to left, #9C9DFE, #4BBEF7);
+    font-size: 16px;
+    color: white;
+    width: 120px;
+    margin-right: 8px;
+}
+
+p {
+    margin: 0;
+}
+
+
