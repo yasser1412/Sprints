@@ -53,8 +53,8 @@ function createHTML() {
                     <section class="fM0-size-a fM0-weight-a overflow-hidden">
                         <header class = "M0-aside-header cM0-bg-white d-flex align-items-center mb-4">
                             <i onclick = ${asideObj.menuState ? false : 'openClosemenu(event)'} class="${asideObj.navHead.appLogo} ${asideObj.menuState ? false : 'uM0-click'} iM0-size-a  uM0-image-contain mx-4">
-                                ${asideObj.menuState ? asideObj.navHead.appName : ''}
                             </i>
+                            ${asideObj.menuState ? asideObj.navHead.appName : ''}
                             <i onclick='openClosemenu(event)' class='uM0-click uM0-image-contain ml-auto iM0-size-a iM0-menu  ${asideObj.menuState ? "d-inline-block": 'd-none'} mx-4'>            
                             </i>
                         </header>
