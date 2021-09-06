@@ -1,0 +1,35 @@
+.iM0-logo{
+    background-image: url('../icons/Logo.svg') ;
+}
+.iM0-paryer{
+    background-image: url('../icons/paryer.svg') ;
+}
+.iM0-dashboard{
+    background-image: url('../icons/dashboard.svg') ;
+}
+.iM0-tasks{
+    background-image: url('../icons/tasks.svg') ;
+}
+.iM0-reminders{
+    background-image: url('../icons/reminders.svg') ;
+}
+.iM0-mypocket{
+    background-image: url('../icons/mypocket.svg') ;
+}
+.iM0-categories{
+    background-image: url('../icons/categories.svg') ;
+}
+.iM0-archive{
+    background-image: url('../icons/archive.svg') ;
+}
+.iM0-trash{
+    background-image: url('../icons/trash.svg') ;
+}
+.iM0-menu{
+    background-image: url('../icons/menuicon.svg') ;
+}
+/* icons Sizes */
+.iM0-size-a{
+    width: 32px;
+    height: 32px;
+}
